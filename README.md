@@ -17,9 +17,11 @@ Features:
 
 
 Debug and Possible Problems:
-- Before running the software, install pyserial and pyqt5 and connect HC-05 with your laptop/computer .
-- python -m pip install pyserial
-- python -m pip install pyqt5 
+- Before running the software, install pyserial and pyqt5 and connect HC-05 with your laptop/computer.
+```
+python -m pip install pyserial
+python -m pip install pyqt5 
+```
 - Check all connections
 
 Run App:
